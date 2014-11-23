@@ -1,0 +1,23 @@
+{
+  "name": "charity-noti-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.34.0",
+    "moment": "^2.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hkkenneth/charity-noti-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkkenneth/charity-noti-server/issues"
+  },
+  "homepage": "http://charity.winginno.com"
+}
